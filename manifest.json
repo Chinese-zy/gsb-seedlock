@@ -1,0 +1,7 @@
+{
+  "run_sha256": "b7b0b86facdc527a7d0951b90b3e1456072e7135353e2fb32662d464802af88c",
+  "sample_sha256": "db94355d10e1de34d0e6adcfe72499a2fb4df87fc73840d60c57194f35e8264b",
+  "schema": "seedlock-manifest/v1",
+  "seed": "e11f038956cf4be6682300df08df428afe74e1bb4d90f1c5044deb6334a6ac1d",
+  "version": "1.0.0"
+}
