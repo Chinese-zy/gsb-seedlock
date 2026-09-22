@@ -1,1 +1,1 @@
-volatile
+seedlock-base-seed-v1
